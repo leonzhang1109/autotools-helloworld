@@ -1,5 +1,5 @@
-#AUTOTOOLS HELLOWORLD
-
+AUTOTOOLS HELLOWORLD
+=========
 Before to build this project, you should have your [autoconf][1] and [automake][1] installed.
 
 [1]:https://ftp.gnu.org/gnu/autoconf/autoconf-latest.tar.gz
