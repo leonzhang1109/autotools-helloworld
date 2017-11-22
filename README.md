@@ -7,11 +7,11 @@ Before to build this project, you should have your [autoconf][1] and [automake][
 
 To build configure script, using the following steps:
 
+> autoheader
+
 > aclocal
 
 > automake --add-missing
-
-> autoheader
 
 > autoconf
 
