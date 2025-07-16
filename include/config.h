@@ -26,4 +26,4 @@
 #define PACKAGE_VERSION "1.1"
 
 /* Version number of package */
-#define VERSION "0.2"
+#define VERSION "0.1"
